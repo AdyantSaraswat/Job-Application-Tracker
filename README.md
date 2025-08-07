@@ -9,7 +9,7 @@ Job Application Tracker is a simple Python command-line tool to help you manage 
 
 ## How to Run
 
-1. Make sure you have Python installed (Python 3.x recommended).
+1. Make sure you have Python installed.
 2. Clone this repository or download the files.
 3. Open a terminal and navigate to the project folder.
 4. Run the program:
